@@ -1,0 +1,10 @@
+__pycache__/
+venv/
+spdl-ui-env/
+var/
+
+.*
+!.gitignore
+*.mp3
+*.log
+sync*.json
